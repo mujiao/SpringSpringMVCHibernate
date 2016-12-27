@@ -24,6 +24,7 @@ public class AppTest {
         Session session1 = sessionFactory.openSession();
         Session session2 = sessionFactory.openSession();
     }
+    //jfsdkf
     @org.junit.Test
     public void fun2(){
         Session session = sessionFactory.openSession();
